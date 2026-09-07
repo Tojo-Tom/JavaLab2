@@ -1,8 +1,4 @@
-/*
- * Task 1 - University Evaluation System
- * Demonstrates: Abstract class, abstract methods, method overriding,
- * runtime polymorphism using an array of parent-type references.
- */
+
 
 // ---- Abstract class with common data, constructor, concrete + abstract methods ----
 abstract class StudentEvaluation {
